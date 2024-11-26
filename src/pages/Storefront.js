@@ -22,7 +22,7 @@ const Storefront = () => {
     },
     {
       name: "whatsApp",
-      link: `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`,
+      link: `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     },
   ];
 
