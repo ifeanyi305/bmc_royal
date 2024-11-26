@@ -6,6 +6,6 @@ function App() {
       <Storefront />
     </div>
   );
-}
+};
 
 export default App;
